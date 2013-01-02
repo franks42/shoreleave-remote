@@ -1,5 +1,4 @@
-(ns shoreleave.remotes.jquery
-  (:use [shoreleave.common :only [clj->js]]))
+(ns shoreleave.remotes.jquery)
 
 (defn ajax
   "This uses jQuery's ajax request to perform a remote
